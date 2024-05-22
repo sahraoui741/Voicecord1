@@ -18,7 +18,7 @@ print("""\
 **Version: 1.0.0**""")
 time.sleep(0.5)
 client = discord.Client(intents=discord.Intents.default())
-Token = input("211543198651121664: ")
+Token = input("NzM3MzkxNTAxMDMzNjAzMjEz.Gp4CQq.H9DPk2AmlFg3Qtn8uNQ9D3NLRxwt8neAy2I4o0: ")
 Id = int(input("1215494462923350047: "))
 
 
