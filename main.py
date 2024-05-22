@@ -18,8 +18,8 @@ print("""\
 **Version: 1.0.0**""")
 time.sleep(0.5)
 client = discord.Client(intents=discord.Intents.default())
-Token = input("Please Enter Your Token: ")
-Id = int(input("Please Enter Your Channel ID: "))
+Token = input("211543198651121664: ")
+Id = int(input("1215494462923350047: "))
 
 
 @client.event
